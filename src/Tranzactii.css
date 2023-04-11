@@ -1,0 +1,13 @@
+.imagee {
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+
+}
+
+.toate {
+    align-items: center;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
